@@ -73,4 +73,7 @@
         width: 100px;
         padding: 7px 0;
         background: transparent;
+        border: 1px solid cyan;
+        border-radius: 25px;
+        color: cyan;
     }
