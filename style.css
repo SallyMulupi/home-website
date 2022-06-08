@@ -54,3 +54,9 @@
         align-items: center;
         color: white;
     }
+    
+    h2 {
+        font-size: 40px;
+        font-weight: bold;
+        padding: 10px;
+    }
