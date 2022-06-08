@@ -28,3 +28,8 @@
 .navbar ul {
     list-style: none;
 }
+
+.navbar ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
