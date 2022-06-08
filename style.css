@@ -60,3 +60,10 @@
         font-weight: bold;
         padding: 10px;
     }
+    
+    p {
+        font-size: 15px;
+        text-decoration: capitalize;
+        padding: 0;
+        line-height: 15px;
+    }
