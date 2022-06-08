@@ -24,3 +24,7 @@
 .logo {
     color: blueviolet;
 }
+
+.navbar ul {
+    list-style: none;
+}
