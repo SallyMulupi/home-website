@@ -33,3 +33,8 @@
     display: inline-block;
     margin: 0 15px;
 }
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+}
